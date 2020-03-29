@@ -11,7 +11,7 @@ public class Matrix {
     boolean moode ;
 
     List <Integer> value,x,y;
-    int i;
+
 
 
     public Matrix() {
@@ -19,7 +19,7 @@ public class Matrix {
         this.y=new ArrayList<>();
         this.value=new ArrayList<>();
         this.moode=false;
-        this.i=0;
+
 
 
 

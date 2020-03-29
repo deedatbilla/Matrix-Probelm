@@ -151,20 +151,6 @@ public class Main {
 
 
 
-	// write your code here
-//        Matrix matrix = new Matrix();
-//        matrix.set(3,3,6);
-//        matrix.set(2,2,5);
-//        matrix.set(8,8,10);
-//        //matrix.getMatrix();
-//        //System.out.println(matrix.get(1,5));
-//        //matrix.product(4);
-//        matrix.printMatrix();
-        //System.out.println(matrix.get(4,4));
-
-        //System.out.println(matrix.getRowCount() + " " +matrix.getColCount());
-        //matrix.printMatrix();
-
 
 
     }
